@@ -1,0 +1,23 @@
+{
+  "name": "@vigneshr23/number.js",
+  "version": "0.0.1",
+  "description": "js integer util",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneshr23/number.js.git"
+  },
+  "keywords": [
+    "number",
+    "integer"
+  ],
+  "author": "vigneshr23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigneshr23/number.js/issues"
+  },
+  "homepage": "https://github.com/vigneshr23/number.js#readme"
+}
